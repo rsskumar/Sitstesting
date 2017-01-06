@@ -12,6 +12,7 @@ public class TestMercuryPage {
 	driver.get("http://www.fda.gov/");
 	System.out.println("FDA PAGE IS DISPLAYED");
 	System.out.println("FDA PAGE IS DISPLAYED");
-		}
+	System.out.println("FDA change");	
+	}
 
 }
